@@ -1,6 +1,6 @@
 {
   "name": "@deepseek-ai/dsh-code-runtime",
-  "description": "Abstract code-execution seam (ctx.codeRuntime) for the DeepSeek Harness",
+  "description": "Abstract code-execution seam (ctx.codeRuntime) for the Chamber",
   "version": "0.1.0-rc.8",
   "publishConfig": {
     "access": "public"

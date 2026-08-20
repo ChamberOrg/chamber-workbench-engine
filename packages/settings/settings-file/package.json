@@ -1,6 +1,6 @@
 {
   "name": "@deepseek-ai/dsh-settings-file",
-  "description": "File-backed settings provider (settings.yaml) for the DeepSeek Harness",
+  "description": "File-backed settings provider (settings.yaml) for the Chamber",
   "version": "0.1.0-rc.8",
   "publishConfig": {
     "access": "public"

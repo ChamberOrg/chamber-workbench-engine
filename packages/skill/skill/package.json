@@ -1,6 +1,6 @@
 {
   "name": "@deepseek-ai/dsh-skill",
-  "description": "Agent skill provider registry for the DeepSeek Harness",
+  "description": "Agent skill provider registry for the Chamber",
   "version": "0.1.0-rc.8",
   "publishConfig": {
     "access": "public"

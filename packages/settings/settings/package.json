@@ -1,6 +1,6 @@
 {
   "name": "@deepseek-ai/dsh-settings",
-  "description": "Abstract user-settings seam (ctx.settings) for the DeepSeek Harness",
+  "description": "Abstract user-settings seam (ctx.settings) for the Chamber",
   "version": "0.1.0-rc.8",
   "publishConfig": {
     "access": "public"

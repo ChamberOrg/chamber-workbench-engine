@@ -1,6 +1,6 @@
 {
   "name": "@deepseek-ai/dsh-home-paths",
-  "description": "Shared filesystem path helpers for the DeepSeek Harness",
+  "description": "Shared filesystem path helpers for the Chamber",
   "version": "0.1.0-rc.8",
   "publishConfig": {
     "access": "public"
